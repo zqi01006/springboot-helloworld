@@ -7,4 +7,5 @@ public class test {
     String likelihood5;
     String likelihood6;
     String likelihood7;
+    String likelihood12;
 }
